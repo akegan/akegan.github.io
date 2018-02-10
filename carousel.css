@@ -25,22 +25,22 @@ body, html {
 
 }
 .bgimg-1 {
-  background-image: url("./images/manzanita.png");
+  background-image: url("./images/manzanita.jpeg");
   min-height: 100vh;
 }
 
 .bgimg-2 {
-  background-image: url("./images/flatirons.png");
+  background-image: url("./images/flatirons.jpeg");
   min-height: 400px;
 }
 
 .bgimg-3 {
-  background-image: url("./images/lichen.png");
+  background-image: url("./images/lichen.jpeg");
   min-height: 400px;
 }
 
 .bgimg-4 {
-  background-image: url("./images/sunset.png");
+  background-image: url("./images/sunset.jpeg");
   min-height: 100vh;
 }
 
